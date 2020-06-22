@@ -1,0 +1,119 @@
+
+  
+  th  {
+    border: 1px solid black;
+    width: 45px;
+    height: 55px;
+  }
+
+  .tabla
+  {
+      margin-top: 60px;
+      margin-left: 60px;
+      
+  }
+
+
+  h1{
+      text-align: center;
+    font-family: sans-serif;
+    color: rgb(52, 219, 219);
+    
+     
+  }
+
+td
+{
+    border: none;
+}
+
+.Verde{
+    background-color: rgb(126, 177, 133);
+     
+}
+.blanco{
+    background: rgb(82, 223, 53);
+}
+.moradoClaro
+{
+    background-color: rgb(233, 80, 200);
+}
+.amarillo
+{
+    background-color: rgb(241, 227, 28);
+}
+.amarilloClaro
+{
+    background-color: rgb(223, 223, 163);
+}
+.azul
+{
+    background-color: rgb(32, 126, 155);
+}
+
+.azulOscuro
+{
+    background-color: rgb(5, 87, 114);
+
+}
+.AmarilloColor
+{
+    background-color: rgb(67, 95, 1);
+
+}
+.AmarilloColor2
+{
+    background-color: rgb(160, 153, 49);
+}
+.amarilloOscuro1
+{
+    background-color: rgb(250, 121, 70);
+}
+
+.tabla_rafael
+{
+
+    margin-top: 75px;
+    margin-left: 410px;
+
+}
+.gray
+{
+    
+    width: 100px;
+    height: 100px;
+    background-color: rgb(116, 116, 116);
+}
+.flex
+{
+    display: flex;
+}
+.item1
+{
+    background-color: rgb(116, 114, 114);
+    width: 498px;
+    color: rgb(7, 7, 7);
+    text-align: center;
+    padding:  15px;
+    margin-bottom: -5px;
+}
+.item2
+{
+    background-color: gray;
+    width: 165px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding:  20px;
+    margin-bottom: -5px;
+}
+.item3
+{   
+    background-color: rgb(67, 95, 1);
+    padding-top: 11px;
+    width: 90px;
+    height: 60px;
+    margin-top: 20px;
+   
+    
+}
+
